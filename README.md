@@ -1,10 +1,10 @@
 # 📊 Analyse Démographique du Burkina Faso
 
 ## 📌 Présentation du Projet
-Ce projet présente une analyse descriptive des caractéristiques et tendances démographiques du Burkina Faso basée sur les données du 5e RGPH. L'objectif est de structurer, nettoyer et visualiser les indicateurs clés à travers un tableau de bord interactif réalisé sous Excel.
+Ce projet présente une analyse descriptive des caractéristiques et tendances démographiques du Burkina Faso basée sur les données du 5e RGPH. L'objectif est de structurer, nettoyer et visualiser les indicateurs clés à travers un tableau de bord réalisé sous Excel.
 
 ## 🛠️ Outils Utilisés
-- **Microsoft Excel** : Modélisation, Tableaux Croisés Dynamiques (TCD), Formules avancées.
+- **Microsoft Excel** : Modélisation, Graphiques pertinents, Formules avancées.
 - **Power Query** : Nettoyage et transformation des données.
 - **Source des données** : 5e Recensement Général de la Population et de l'Habitation (RGPH).
 
